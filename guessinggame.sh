@@ -1,6 +1,6 @@
 echo "Guessing game"
 echo"lets guess number of files in directory"
-wcount=$(ls-la|wc_1)
+wcount=$(ls-la|wc-l)
 function qn {
 echo "enter number of files in respository"
 read num
